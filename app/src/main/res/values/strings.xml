@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose Basicos</string>
+    <string name="show_less">menosd</string>
+    <string name="show_more">mas</string>
+</resources>
